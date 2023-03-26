@@ -1,8 +1,16 @@
 # Calculator - flutter project
 
-A simgple caltulator, built on flutter.
+A simgple caltulator, built on flutter. This is not completed.
 
 ![Alt text](Screenshot.png "calculator flutter-project")
+
+## All that work is done
+
+It is not completed. According to some, the work of addition, subtraction, multiplication and division can be done.
+
+## All that work is left
+
+But in addition to working with decimal numbers, there is more work left. Responding, rotation does not show some parts. Sort some more buttons should be raised.
 
 ## Instructuions
 
