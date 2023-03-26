@@ -17,13 +17,7 @@ This is a flutter project, so there should be whatever you need to run the flutt
 
 ## App version
 
-1.0.2+1 (05-June-2020)
-
-## The latest update:
-
-1. Play, pause, stop buttons are arranged.
-2. Ayatul Kursi's Bengali pronunciation has been corrected.
-3. The bug has been fixed, that is, the problem of Play, PASE/Resume, Stop.
+1.0.0 (May be 15-March-2020)
 
 ## Requires Android
 
@@ -31,7 +25,7 @@ Requirement of Minimum SDK Version: minSdkVersion 16 (Android 4.1 or, JELLY BEAN
 
 ## Tested On:
 
-Pixel2, Nexus 10 Tab, Galaxy Nexus and Samsung Galaxy J7
+Emulator
 
 ## Used tools and programming languages
 
@@ -43,8 +37,8 @@ Pixel2, Nexus 10 Tab, Galaxy Nexus and Samsung Galaxy J7
 
 ### App size:
 
-17.3 MB (After build on APK for all platform) <br>
-7 MB (After build on APK for specific platform)
+15.2 MB (After build on APK for all platform) <br>
+5.6 MB (After build on APK for specific platform)
 
 ### Developed by:
 
